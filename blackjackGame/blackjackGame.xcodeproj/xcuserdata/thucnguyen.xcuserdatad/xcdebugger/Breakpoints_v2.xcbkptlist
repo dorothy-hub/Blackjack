@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E315EEE6-2A35-4C81-B1E1-AE795CD92237"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB3A4A07-BDDD-4A9E-BF0B-8ADDE308AD87"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "blackjackGame/SecondViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "SecondViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "CB3A4A07-BDDD-4A9E-BF0B-8ADDE308AD87 - 3e4f9a9a5642c33a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "blackjackGame.SecondViewController.deck.getter : Swift.Int"
+                  moduleName = "blackjackGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/My%20Apps/blackjackGame/blackjackGame/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "CB3A4A07-BDDD-4A9E-BF0B-8ADDE308AD87 - c85069267fe20f36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "blackjackGame.SecondViewController.deck.setter : Swift.Int"
+                  moduleName = "blackjackGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/My%20Apps/blackjackGame/blackjackGame/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "118">
+               </Location>
+               <Location
+                  uuid = "CB3A4A07-BDDD-4A9E-BF0B-8ADDE308AD87 - fdbf5bfc84c1e025"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "blackjackGame.SecondViewController.deck.modify : Swift.Int"
+                  moduleName = "blackjackGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/My%20Apps/blackjackGame/blackjackGame/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "CB3A4A07-BDDD-4A9E-BF0B-8ADDE308AD87 - e9adb151edda8436"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "blackjackGame.SecondViewController.deck.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "blackjackGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/My%20Apps/blackjackGame/blackjackGame/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "CB3A4A07-BDDD-4A9E-BF0B-8ADDE308AD87 - 652d6de682f7a530"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "blackjackGame.SecondViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; blackjackGame.SecondViewController"
+                  moduleName = "blackjackGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/My%20Apps/blackjackGame/blackjackGame/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "2561">
+               </Location>
+               <Location
+                  uuid = "CB3A4A07-BDDD-4A9E-BF0B-8ADDE308AD87 - b9197a2d3ece650a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "blackjackGame.SecondViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;blackjackGame.SecondViewController&gt;"
+                  moduleName = "blackjackGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/My%20Apps/blackjackGame/blackjackGame/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "2502">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1451E212-A08A-423D-A8D0-F95CCFA1ACB1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "blackjackGame/SecondViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "SecondViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
